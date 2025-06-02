@@ -1,0 +1,102 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+/* class representation */
+.frontend {
+    background-color: red;
+    color: white;
+    font-size: 20px;
+    font-weight: 600;
+    border: 3px solid black;
+    padding: 50px;
+    margin: 100px 75px 50px 25px;
+    border-radius: 100px 75px 50px 25px;
+    border-top-left-radius: 30px;
+}
+
+.tutor {
+    color: blue;
+}
+
+.tutor-name {
+    color: yellowgreen;
+}
+.amountofstudents{
+    color: blue;
+}
+.amount-of-student{
+    color: yellowgreen;
+}
+
+.nameofschool{
+    color: blue;
+}
+.name-of-school{
+    color: yellowgreen;
+}
+.capacity{
+    color: blue;
+}
+.ca-pa-city{
+    color: yellowgreen;
+}
+.durationofclass{
+    color: blue;
+}
+.duration-of-class{
+    color: yellowgreen;
+}
+.durationofsemester{
+    color: blue;
+}
+.duration-of-semester{
+    color: yellowgreen;
+}
+.description{
+    color: blue;
+}
+.des-crip-tion{
+    color: yellowgreen;
+}
+
+/* class representation */
+.ui-ux{
+}
+.tutor{
+    color: blue;  
+}
+.tutor-name{
+    color: yellowgreen;
+}
+.amountofstudents{
+     color: blue;
+}
+.amount-of-student{
+    color: yellowgreen;
+}
+.nameofschool{
+    color: blue;
+}
+.name-of-school{
+    color: yellowgreen;
+}
+.capacity{
+    color: blue;
+}
+.ca-pa-city{
+    color: yellowgreen;
+}
+.durationofclass{
+    color: blue;
+}
+.duration-of-class{
+    color: yellowgreen;
+}
+.durationofsemester{
+    color: blue;
+}
