@@ -8,14 +8,14 @@
 
 /* class representation */
 .frontend {
-    background-color: red;
+    background-color: black;
     color: white;
     font-size: 20px;
     font-weight: 600;
     border: 3px solid black;
-    padding: 50px;
-    margin: 100px 75px 50px 25px;
-    border-radius: 100px 75px 50px 25px;
+    padding: 20px;
+    margin: 45px;
+    border-radius: 30px;
     border-top-left-radius: 30px;
 }
 
@@ -66,6 +66,15 @@
 
 /* class representation */
 .ui-ux{
+    color: white;
+    font-size: 20px;
+    font-weight: 600;
+    background-color: blue;
+    border-radius: 30PX;
+    border: 3PX solid black;
+    padding: 20px;
+    margin: 45px;
+
 }
 .tutor{
     color: blue;  
@@ -99,4 +108,65 @@
 }
 .durationofsemester{
     color: blue;
+}
+.duration-of-semester{
+    color: yellowgreen;
+}
+.description{
+    color: blue;
+}
+.des-crip-tion{
+    color:yellowgreen ;
+}
+
+/* class representation */
+.cybersec{
+    color: white;
+    background-color: green;
+    border-radius: 30px;
+    border: 5px solid black;
+    padding: 20px;
+    margin: 45px;
+}
+.tutor{
+    color: blue;
+}
+.tutor-name{
+    color: yellowgreen;
+}
+.amountofstudents{
+    color: blue;
+}
+.amount-of-student{
+    color: yellowgreen;
+}
+.nameofschool{
+    color: blue;
+}
+.name-of-school{
+    color: yellowgreen;
+}
+.capacity{
+    color: blue;
+}
+.ca-pa-city{
+    color: yellowgreen;
+}
+.durationofclass{
+    color: blue;
+}
+.duration-of-class{
+    color: yellowgreen;
+}
+.durationofsemester{
+    color: blue;
+}
+.duration-of-semester{
+    color: yellowgreen;
+}
+.description{
+    color: blue;
+}
+.des-crip-tion{
+    color: yellowgreen;
 }
