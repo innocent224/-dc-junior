@@ -8,11 +8,11 @@
 
 /* class representation */
 .frontend {
-    background-color: black;
+    background-color: aqua;
     color: white;
     font-size: 20px;
     font-weight: 600;
-    border: 3px solid black;
+    border: 5px solid black;
     padding: 20px;
     margin: 45px;
     border-radius: 30px;
@@ -66,12 +66,12 @@
 
 /* class representation */
 .ui-ux{
-    color: white;
+    color: color(srgb red green blue);
     font-size: 20px;
     font-weight: 600;
-    background-color: blue;
+    background-color: brown;
     border-radius: 30PX;
-    border: 3PX solid black;
+    border: 5px solid black;
     padding: 20px;
     margin: 45px;
 
@@ -116,13 +116,13 @@
     color: blue;
 }
 .des-crip-tion{
-    color:yellowgreen ;
+    color: yellowgreen;
 }
 
 /* class representation */
 .cybersec{
-    color: white;
-    background-color: green;
+    color: darkorange;
+    background-color: cornflowerblue;
     border-radius: 30px;
     border: 5px solid black;
     padding: 20px;
